@@ -4,6 +4,8 @@ DL Project Apr 2022
 
 <h1 align="center">🍔🍟🍗 Food analysis by AI 🍞🍖🍕</h1>
 
+YOLACT : https://youtu.be/CbnwrQq7x-8
+
 <p align="center">
 
 <!--  <img src="https://visitor-badge.laobi.icu/badge?page_id=lannguyen0910.food-detection-yolov5" alt="visitors" />
